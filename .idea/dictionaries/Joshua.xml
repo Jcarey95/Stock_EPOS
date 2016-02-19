@@ -2,6 +2,9 @@
   <dictionary name="Joshua">
     <words>
       <w>initui</w>
+      <w>passwordlabel</w>
+      <w>usernameentry</w>
+      <w>usernamelabel</w>
     </words>
   </dictionary>
 </component>
